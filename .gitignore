@@ -1,2 +1,4 @@
 release/
 secret.txt
+.idea/
+java/target/
